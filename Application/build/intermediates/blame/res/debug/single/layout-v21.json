@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\resource\\google_android\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\taoqicar\\.android\\build-cache\\d1041a9f48a59d86f97f3ebe7d434bcf94950878\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\resource\\google_android\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\taoqicar\\.android\\build-cache\\d1041a9f48a59d86f97f3ebe7d434bcf94950878\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\resource\\google_android\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\taoqicar\\.android\\build-cache\\d1041a9f48a59d86f97f3ebe7d434bcf94950878\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\resource\\google_android\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\taoqicar\\.android\\build-cache\\d1041a9f48a59d86f97f3ebe7d434bcf94950878\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

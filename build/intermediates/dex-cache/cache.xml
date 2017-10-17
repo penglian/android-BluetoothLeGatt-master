@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\taoqicar\.android\build-cache\54533747caf1f1f6c5ad45f0a74abca7fd96311f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="E:\resource\google_android\android-BluetoothLeGatt-master\Application\build\intermediates\pre-dexed\debug\classes_25d4c28b2fce714f8239db19e82a151d3391f676.jar" />
+    </item>
+
+</items>
